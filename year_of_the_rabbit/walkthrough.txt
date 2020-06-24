@@ -1,0 +1,18 @@
+                                YEAR OF THE RABBIT
+
+        
+        # TASK 1
+        ==========
+
+        1. WHAT IS THE USER FLAG?=THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
+
+        2. WHAT IS THE ROOT FLAG?=THM{8d6f163a87a1c80de27a4fd61aef0f3a0ecf9161}
+
+
+
+        username=ftpuser
+        password=5iez1wGXKfPKQ
+
+
+        ssh user=eli
+        password=DSpDiM1wAEwid

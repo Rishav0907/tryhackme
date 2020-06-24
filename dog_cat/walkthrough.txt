@@ -1,0 +1,8 @@
+                                        DOG CAT CTF
+
+            IP=10.10.118.210
+
+            #1. WHAT IS FLAG 1?=
+            #2. WHAT IS FLAG 2?=
+            #3. WHAT IS FLAG 3?=
+            #4. WHAT IS FLAG 4?=

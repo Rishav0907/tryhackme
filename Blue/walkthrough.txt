@@ -1,0 +1,30 @@
+                                            BLUE
+
+
+    # TASK 1
+    ==========
+
+    1. SCAN THE MACHINE
+
+    2. HOW MANY PORTS ARE OPEN=3
+
+    3. WHAT IS THE MACHINE VULNERABLE TO?=ms17-010
+
+
+    # TASK 2
+    ==========
+
+    1. START METASPLOIT
+
+    2. FIND THE EXPLOITATION CODE THAT WE WILL RUN AGAINST THE VULNEARBLE MACHINE =exploit/windows/smb/ms17_010_eternalblue
+
+    3. SHOW OPTIONS AND SET ONE REQ VALUE.WHAT IS THE NAME OF THE VALUE?=RHOSTS
+
+    4. RUN THE EXPLOIT
+
+    5. CONFIRM THE EXPLOIT
+
+    # TASK 3
+    ===========
+
+    1. 
